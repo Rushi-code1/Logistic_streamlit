@@ -1,0 +1,19 @@
+# Core data science libraries
+pandas>=2.0.0
+numpy>=1.21.0
+scikit-learn>=1.3.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web application framework
+streamlit>=1.28.0
+
+# Additional scikit-learn dependencies (explicitly listed for completeness)
+scipy>=1.7.0
+joblib>=1.2.0
+threadpoolctl>=3.1.0
+
+# Optional but recommended for better performance
+openpyxl>=3.0.0  # for Excel file support in pandas 
